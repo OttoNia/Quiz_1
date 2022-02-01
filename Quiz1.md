@@ -161,7 +161,14 @@ UPDATE: This section needs to be _so easy for you_ that it was useless to ask a 
    - you can ask `prof` questions but you only get _one good_ `freebie`
 
 7. the finished `art-work` must align with your `information`
-   - [] I used (enter your `function1`) HERE:
+8. 
+   - [x] I used (enter your `function1`) HERE:
+   <script>
+      function myFunction(){
+        document.body.style.backgroundColor = "rgb(40, 27, 99)";
+      }
+  </script>
+  
    - [] I used (enter your `function2`) HERE:
    - [] I had (enter your `emotion`) HERE:
 
