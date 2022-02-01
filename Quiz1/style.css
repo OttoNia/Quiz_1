@@ -5,3 +5,11 @@ html, body {
 canvas {
   display: block;
 }
+button{
+  color: aliceblue;
+  background-color: rgb(40, 27, 99);
+  padding: 2px;
+  margin: 5px;
+  width: 6cm;
+  height: 1cm;
+}

@@ -24,7 +24,7 @@ The content I received from `prof` was:
 
 In your Quiz 1 folder do the following:
 
-1. [] Make a `STATEMENT.md` file
-2. [] Make a `README.md` file
+1. [x] Make a `STATEMENT.md` file
+2. [x] Make a `README.md` file
 
 ---
