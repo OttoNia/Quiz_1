@@ -167,7 +167,7 @@ UPDATE: This section needs to be _so easy for you_ that it was useless to ask a 
       function myFunction(){
         document.body.style.backgroundColor = "rgb(40, 27, 99)";
       }
-  </script>
+   </script>
   
    - [] I used (enter your `function2`) HERE:
    - [] I had (enter your `emotion`) HERE:
