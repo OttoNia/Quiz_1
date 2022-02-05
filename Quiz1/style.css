@@ -3,13 +3,34 @@ html, body {
   padding: 0;
 }
 canvas {
+  padding-top: 12px;
+  padding: 2px;
   display: block;
 }
-button{
+#button1{
   color: aliceblue;
   background-color: rgb(40, 27, 99);
   padding: 2px;
   margin: 5px;
   width: 6cm;
-  height: 1cm;
+  height: 1cm; 
+  font-size: 20px;
+}
+#button2{
+  color: aliceblue;
+  background-color: rgb(221, 136, 183);
+  padding: 2px;
+  margin: 5px;
+  width: 6cm;
+  height: 1cm; 
+  font-size: 20px;
+}
+#button3{
+  color: aliceblue;
+  background-color: rgb(136, 166, 221);
+  padding: 2px;
+  margin: 5px;
+  width: 6cm;
+  height: 1cm; 
+  font-size: 20px;
 }

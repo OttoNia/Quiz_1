@@ -42,16 +42,16 @@ function setup() {
 // sound
 function song(time) {
   if (counter % 4 === 0) {
-    bassSynth.triggerAttackRelease("c1", "8n", time, 1);
+    bassSynth.triggerAttackRelease("D2", "8n", time, 0.2);
   }
 
   if (counter % 4 !== 1) {
-    if (counter === 3 || counter === 12) {
+    if (counter === 3 || counter === 11) {
         cymbalSynth.envelope.decay = 0.5;
     } else {
         cymbalSynth.envelope.decay = 0.01;
     }
-    cymbalSynth.triggerAttackRelease("c1", "32n", time, 0.3);
+    cymbalSynth.triggerAttackRelease("F2", "16n", time, 0.2);
   }
   counter = (counter + 1) % 16;
   // console.log(counter);

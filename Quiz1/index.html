@@ -8,13 +8,23 @@
   </head>
   <body>
     <script src="sketch.js"></script>
+    <script src="emotion.js"></script>
+
    <script>
-      function myFunction(){
+      function myFunction1(){
         document.body.style.backgroundColor = "rgb(40, 27, 99)";
       }
+      function myFunction2(){
+        document.body.style.backgroundColor = "rgb(221, 136, 183)";
+      }
+      function myFunction3(){
+        document.body.style.backgroundColor = "rgb(136, 166, 221)";
+      }
+      
   </script>
 
-
-  <button type="button" onclick="myFunction()">background color</button>
+  <button type="button" id="button1" onclick="myFunction1()">background color</button>
+  <button type="button" id="button2" onclick="myFunction2()">background color</button>
+  <button type="button" id="button3" onclick="myFunction3()">background color</button>
   </body>  
 </html>

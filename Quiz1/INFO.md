@@ -2,7 +2,7 @@
 
 ## First Step
 
-[] Make three new folders for `Quiz2`, `Quiz3`, `Quiz4`
+[x] Make three new folders for `Quiz2`, `Quiz3`, `Quiz4`
 
 ---
 
