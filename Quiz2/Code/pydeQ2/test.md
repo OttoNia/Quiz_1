@@ -17,3 +17,6 @@
 
 ### This is the family tree of the robot family I imagined.
 https://github.com/robots-make-art-too/Hyewon_Kim/blob/main/Quiz2/My%20Code/data/family%20tree.jpg
+
+### STATEMENT.md
+https://github.com/OttoNia/Quiz_1/blob/main/Quiz2/STATEMENT.md
