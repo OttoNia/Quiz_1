@@ -1,0 +1,14 @@
+
+Robot 1 name is: old
+Robot 2 name is: old2
+Robot 3 name is: OTP
+Robot 4 name is: P1
+Robot 5 name is: P2
+Robot 6 name is: C1
+Robot 7 name is: C2
+Robot 8 name is: CH1
+Robot 9 name is: CH2
+Robot 10 name is: CH3
+Robot 11 name is: CH4
+Robot 12 name is: CH5
+
