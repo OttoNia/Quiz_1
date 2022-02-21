@@ -22,7 +22,7 @@ void draw(){
   ta.run();
   
   fill(82, 255, 246);
-  ellipse(280,160,90,120);
+  ellipse(280,160,120,140);
   
 //parents
   fill(255, 103, 77);
